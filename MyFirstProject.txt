@@ -1,1 +1,1 @@
-This is my 2nd git project tester New
+This is my 2nd git project tester New -- edited from GitHub
